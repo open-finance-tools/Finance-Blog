@@ -16,9 +16,14 @@
 		</style>
 	</head>
 	<body>
-		<div class="demo">
+		<center><div class="container">
+			<div class="img">
+				<img src="https://images.unsplash.com/photo-1509023464722-18d996393ca8?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width = "400" alt="Mountain" />
+			</div>
+		</div></center>
+		<!-- <div class="demo">
 			<img src="https://images.unsplash.com/photo-1509023464722-18d996393ca8?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width = "400" alt="Mountain" />
-		</div>
+		</div> -->
 	</body>
 </html>
 
