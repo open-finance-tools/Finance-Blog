@@ -22,4 +22,4 @@
 	</body>
 </html>
 
-This is a blog documenting my learning process of Finance. We will be sharing my notes and thoughts on various topics in Finance. Hope you will find them helpful. 
+This is a blog documenting our learning process of Finance. We will be sharing my notes and thoughts on various topics in Finance. Hope you will find them helpful. 
