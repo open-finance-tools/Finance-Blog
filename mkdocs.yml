@@ -3,7 +3,7 @@ site_name: Open Finance Blog
 site_url: https://open-finance-tools.github.io/Finance-Blog
 
 repo_url: https://github.com/open-finance-tools/Finance-Blog
-repo_name: open-finance-tools/Finance-Blog
+repo_name: Finance-Blog
 
 extra_css:
   - stylesheets/extra.css
