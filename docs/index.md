@@ -5,9 +5,9 @@
 		<title>css add shadow</title>
 		<style>
 			.demo{
-				width: 400px;
-				height: 300px;
-				margin: 50px auto;
+				width: 400px auto;
+				height: 300px auto;
+				margin: 50px;
 			}
 			.demo img{
 				-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); /*考虑浏览器兼容性：兼容 Chrome, Safari, Opera */
