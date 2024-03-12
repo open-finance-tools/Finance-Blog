@@ -93,6 +93,10 @@ theme:
 nav: 
   - Homepage: index.md
   - Basic: 
+    - toutrials: 
+      - About: Basic/toutrials/About.md
     - About: Basic/About.md
+  - bitcoin: 
+    - index: bitcoin/index.md
   - Timeline: 
     - index: Timeline/index.md
