@@ -8,7 +8,7 @@ links:
 readtime: 0
 slug: rule-based agent
 authors:
-  - <qihang>
+  - <jiaming>
 ---
 # something
 ## something
